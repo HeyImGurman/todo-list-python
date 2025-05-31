@@ -7,5 +7,5 @@ To-Do list program on Python.
 - Save tasks on a local storage
 
 ## Files
--TodoPython.py
--Tasks.txt (for storing task data)
+- TodoPython.py
+- Tasks.txt (for storing task data)
