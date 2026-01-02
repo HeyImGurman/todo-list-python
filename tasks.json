@@ -1,11 +1,10 @@
 {
     "name": "Tasks",
     "storage": [
-        "Kill Naman Thrice",
-        "Slap Yourself"
+      
     ],
     "storage_done": [
-        "Kill Naman",
-        "Kill Naman again"
+       
     ]
+
 }
