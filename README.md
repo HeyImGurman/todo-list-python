@@ -1,5 +1,5 @@
 # To-Do-list-python
-To-Do list program on Python.
+To-Do list program in Python.
 
 ## Features
 - Add tasks. 
